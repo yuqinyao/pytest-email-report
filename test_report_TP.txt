@@ -1,0 +1,11 @@
+Total: 11, Passed: 2, Failed: 9
+Failed cases:
+test_report.py::Test1::test_report_fail[input_1]
+test_report.py::Test1::test_report_fail[input_2]
+test_report.py::Test1::test_report_error
+test_report.py::Test2::test_report_fail[input_1]
+test_report.py::Test2::test_report_fail[input_2]
+test_report.py::Test2::test_report_error
+test_report.py::Test3::test_report_fail[input_1]
+test_report.py::Test3::test_report_fail[input_2]
+test_report.py::Test3::test_report_error
